@@ -1,0 +1,2166 @@
+{
+    "hero": [
+        {
+            "heroId": "1",
+            "name": "黑暗之女",
+            "title": "安妮",
+            "alias": "Annie",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "2",
+            "name": "狂战士",
+            "title": "奥拉夫",
+            "alias": "Olaf",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "3",
+            "name": "正义巨像",
+            "title": "加里奥",
+            "alias": "Galio",
+            "roles": [
+                "tank",
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "4",
+            "name": "卡牌大师",
+            "title": "崔斯特",
+            "alias": "TwistedFate",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "5",
+            "name": "德邦总管",
+            "title": "赵信",
+            "alias": "XinZhao",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "6",
+            "name": "无畏战车",
+            "title": "厄加特",
+            "alias": "Urgot",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "7",
+            "name": "诡术妖姬",
+            "title": "乐芙兰",
+            "alias": "Leblanc",
+            "roles": [
+                "assassin",
+                "mage"
+            ],
+            "positions": [
+                "mid",
+                "support"
+            ]
+        },
+        {
+            "heroId": "8",
+            "name": "猩红收割者",
+            "title": "弗拉基米尔",
+            "alias": "Vladimir",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid",
+                "top"
+            ]
+        },
+        {
+            "heroId": "9",
+            "name": "远古恐惧",
+            "title": "费德提克",
+            "alias": "FiddleSticks",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "jungle",
+                "support"
+            ]
+        },
+        {
+            "heroId": "10",
+            "name": "正义天使",
+            "title": "凯尔",
+            "alias": "Kayle",
+            "roles": [
+                "fighter",
+                "support"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "11",
+            "name": "无极剑圣",
+            "title": "易",
+            "alias": "MasterYi",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "12",
+            "name": "牛头酋长",
+            "title": "阿利斯塔",
+            "alias": "Alistar",
+            "roles": [
+                "tank",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "13",
+            "name": "符文法师",
+            "title": "瑞兹",
+            "alias": "Ryze",
+            "roles": [
+                "mage",
+                "fighter"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "14",
+            "name": "亡灵战神",
+            "title": "赛恩",
+            "alias": "Sion",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "15",
+            "name": "战争女神",
+            "title": "希维尔",
+            "alias": "Sivir",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "16",
+            "name": "众星之子",
+            "title": "索拉卡",
+            "alias": "Soraka",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "17",
+            "name": "迅捷斥候",
+            "title": "提莫",
+            "alias": "Teemo",
+            "roles": [
+                "marksman",
+                "assassin"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "18",
+            "name": "麦林炮手",
+            "title": "崔丝塔娜",
+            "alias": "Tristana",
+            "roles": [
+                "marksman",
+                "assassin"
+            ],
+            "positions": [
+                "bottom",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "19",
+            "name": "祖安怒兽",
+            "title": "沃里克",
+            "alias": "Warwick",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "jungle",
+                "top"
+            ]
+        },
+        {
+            "heroId": "20",
+            "name": "雪原双子",
+            "title": "努努和威朗普",
+            "alias": "Nunu",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "21",
+            "name": "赏金猎人",
+            "title": "厄运小姐",
+            "alias": "MissFortune",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom",
+                "support"
+            ]
+        },
+        {
+            "heroId": "22",
+            "name": "寒冰射手",
+            "title": "艾希",
+            "alias": "Ashe",
+            "roles": [
+                "marksman",
+                "support"
+            ],
+            "positions": [
+                "bottom",
+                "support"
+            ]
+        },
+        {
+            "heroId": "23",
+            "name": "蛮族之王",
+            "title": "泰达米尔",
+            "alias": "Tryndamere",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "24",
+            "name": "武器大师",
+            "title": "贾克斯",
+            "alias": "Jax",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "25",
+            "name": "堕落天使",
+            "title": "莫甘娜",
+            "alias": "Morgana",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "support",
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "26",
+            "name": "时光守护者",
+            "title": "基兰",
+            "alias": "Zilean",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "27",
+            "name": "炼金术士",
+            "title": "辛吉德",
+            "alias": "Singed",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "28",
+            "name": "痛苦之拥",
+            "title": "伊芙琳",
+            "alias": "Evelynn",
+            "roles": [
+                "assassin",
+                "mage"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "29",
+            "name": "瘟疫之源",
+            "title": "图奇",
+            "alias": "Twitch",
+            "roles": [
+                "marksman",
+                "assassin"
+            ],
+            "positions": [
+                "bottom",
+                "support"
+            ]
+        },
+        {
+            "heroId": "30",
+            "name": "死亡颂唱者",
+            "title": "卡尔萨斯",
+            "alias": "Karthus",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "31",
+            "name": "虚空恐惧",
+            "title": "科加斯",
+            "alias": "Chogath",
+            "roles": [
+                "tank",
+                "mage"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "32",
+            "name": "殇之木乃伊",
+            "title": "阿木木",
+            "alias": "Amumu",
+            "roles": [
+                "tank",
+                "mage"
+            ],
+            "positions": [
+                "jungle",
+                "support"
+            ]
+        },
+        {
+            "heroId": "33",
+            "name": "披甲龙龟",
+            "title": "拉莫斯",
+            "alias": "Rammus",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "34",
+            "name": "冰晶凤凰",
+            "title": "艾尼维亚",
+            "alias": "Anivia",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "35",
+            "name": "恶魔小丑",
+            "title": "萨科",
+            "alias": "Shaco",
+            "roles": [
+                "assassin"
+            ],
+            "positions": [
+                "jungle",
+                "support"
+            ]
+        },
+        {
+            "heroId": "36",
+            "name": "祖安狂人",
+            "title": "蒙多医生",
+            "alias": "DrMundo",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "37",
+            "name": "琴瑟仙女",
+            "title": "娑娜",
+            "alias": "Sona",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "38",
+            "name": "虚空行者",
+            "title": "卡萨丁",
+            "alias": "Kassadin",
+            "roles": [
+                "assassin",
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "39",
+            "name": "刀锋舞者",
+            "title": "艾瑞莉娅",
+            "alias": "Irelia",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "40",
+            "name": "风暴之怒",
+            "title": "迦娜",
+            "alias": "Janna",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "41",
+            "name": "海洋之灾",
+            "title": "普朗克",
+            "alias": "Gangplank",
+            "roles": [
+                "fighter"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "42",
+            "name": "英勇投弹手",
+            "title": "库奇",
+            "alias": "Corki",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "43",
+            "name": "天启者",
+            "title": "卡尔玛",
+            "alias": "Karma",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "44",
+            "name": "瓦洛兰之盾",
+            "title": "塔里克",
+            "alias": "Taric",
+            "roles": [
+                "support",
+                "fighter"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "45",
+            "name": "邪恶小法师",
+            "title": "维迦",
+            "alias": "Veigar",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid",
+                "support"
+            ]
+        },
+        {
+            "heroId": "48",
+            "name": "巨魔之王",
+            "title": "特朗德尔",
+            "alias": "Trundle",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top",
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "50",
+            "name": "诺克萨斯统领",
+            "title": "斯维因",
+            "alias": "Swain",
+            "roles": [
+                "mage",
+                "fighter"
+            ],
+            "positions": [
+                "support",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "51",
+            "name": "皮城女警",
+            "title": "凯特琳",
+            "alias": "Caitlyn",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "53",
+            "name": "蒸汽机器人",
+            "title": "布里茨",
+            "alias": "Blitzcrank",
+            "roles": [
+                "tank",
+                "fighter",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "54",
+            "name": "熔岩巨兽",
+            "title": "墨菲特",
+            "alias": "Malphite",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "top",
+                "mid",
+                "support"
+            ]
+        },
+        {
+            "heroId": "55",
+            "name": "不祥之刃",
+            "title": "卡特琳娜",
+            "alias": "Katarina",
+            "roles": [
+                "assassin",
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "56",
+            "name": "永恒梦魇",
+            "title": "魔腾",
+            "alias": "Nocturne",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "57",
+            "name": "扭曲树精",
+            "title": "茂凯",
+            "alias": "Maokai",
+            "roles": [
+                "tank",
+                "mage"
+            ],
+            "positions": [
+                "jungle",
+                "support"
+            ]
+        },
+        {
+            "heroId": "58",
+            "name": "荒漠屠夫",
+            "title": "雷克顿",
+            "alias": "Renekton",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "59",
+            "name": "德玛西亚皇子",
+            "title": "嘉文四世",
+            "alias": "JarvanIV",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "jungle",
+                "support"
+            ]
+        },
+        {
+            "heroId": "60",
+            "name": "蜘蛛女皇",
+            "title": "伊莉丝",
+            "alias": "Elise",
+            "roles": [
+                "mage",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "61",
+            "name": "发条魔灵",
+            "title": "奥莉安娜",
+            "alias": "Orianna",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "62",
+            "name": "齐天大圣",
+            "title": "孙悟空",
+            "alias": "MonkeyKing",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "jungle",
+                "top"
+            ]
+        },
+        {
+            "heroId": "63",
+            "name": "复仇焰魂",
+            "title": "布兰德",
+            "alias": "Brand",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "support",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "64",
+            "name": "盲僧",
+            "title": "李青",
+            "alias": "LeeSin",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "67",
+            "name": "暗夜猎手",
+            "title": "薇恩",
+            "alias": "Vayne",
+            "roles": [
+                "marksman",
+                "assassin"
+            ],
+            "positions": [
+                "bottom",
+                "top"
+            ]
+        },
+        {
+            "heroId": "68",
+            "name": "机械公敌",
+            "title": "兰博",
+            "alias": "Rumble",
+            "roles": [
+                "fighter",
+                "mage"
+            ],
+            "positions": [
+                "top",
+                "mid",
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "69",
+            "name": "魔蛇之拥",
+            "title": "卡西奥佩娅",
+            "alias": "Cassiopeia",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "72",
+            "name": "水晶先锋",
+            "title": "斯卡纳",
+            "alias": "Skarner",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": []
+        },
+        {
+            "heroId": "74",
+            "name": "大发明家",
+            "title": "黑默丁格",
+            "alias": "Heimerdinger",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "75",
+            "name": "沙漠死神",
+            "title": "内瑟斯",
+            "alias": "Nasus",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "76",
+            "name": "狂野女猎手",
+            "title": "奈德丽",
+            "alias": "Nidalee",
+            "roles": [
+                "assassin",
+                "mage"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "77",
+            "name": "兽灵行者",
+            "title": "乌迪尔",
+            "alias": "Udyr",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "78",
+            "name": "圣锤之毅",
+            "title": "波比",
+            "alias": "Poppy",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "top",
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "79",
+            "name": "酒桶",
+            "title": "古拉加斯",
+            "alias": "Gragas",
+            "roles": [
+                "fighter",
+                "mage"
+            ],
+            "positions": [
+                "jungle",
+                "top"
+            ]
+        },
+        {
+            "heroId": "80",
+            "name": "不屈之枪",
+            "title": "潘森",
+            "alias": "Pantheon",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "support",
+                "mid",
+                "top"
+            ]
+        },
+        {
+            "heroId": "81",
+            "name": "探险家",
+            "title": "伊泽瑞尔",
+            "alias": "Ezreal",
+            "roles": [
+                "marksman",
+                "mage"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "82",
+            "name": "铁铠冥魂",
+            "title": "莫德凯撒",
+            "alias": "Mordekaiser",
+            "roles": [
+                "fighter"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "83",
+            "name": "牧魂人",
+            "title": "约里克",
+            "alias": "Yorick",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "84",
+            "name": "离群之刺",
+            "title": "阿卡丽",
+            "alias": "Akali",
+            "roles": [
+                "assassin"
+            ],
+            "positions": [
+                "mid",
+                "top"
+            ]
+        },
+        {
+            "heroId": "85",
+            "name": "狂暴之心",
+            "title": "凯南",
+            "alias": "Kennen",
+            "roles": [
+                "mage",
+                "marksman"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "86",
+            "name": "德玛西亚之力",
+            "title": "盖伦",
+            "alias": "Garen",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "89",
+            "name": "曙光女神",
+            "title": "蕾欧娜",
+            "alias": "Leona",
+            "roles": [
+                "tank",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "90",
+            "name": "虚空先知",
+            "title": "玛尔扎哈",
+            "alias": "Malzahar",
+            "roles": [
+                "mage",
+                "assassin"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "91",
+            "name": "刀锋之影",
+            "title": "泰隆",
+            "alias": "Talon",
+            "roles": [
+                "assassin"
+            ],
+            "positions": [
+                "mid",
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "92",
+            "name": "放逐之刃",
+            "title": "锐雯",
+            "alias": "Riven",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "96",
+            "name": "深渊巨口",
+            "title": "克格莫",
+            "alias": "KogMaw",
+            "roles": [
+                "marksman",
+                "mage"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "98",
+            "name": "暮光之眼",
+            "title": "慎",
+            "alias": "Shen",
+            "roles": [
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "99",
+            "name": "光辉女郎",
+            "title": "拉克丝",
+            "alias": "Lux",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "support",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "101",
+            "name": "远古巫灵",
+            "title": "泽拉斯",
+            "alias": "Xerath",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "support",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "102",
+            "name": "龙血武姬",
+            "title": "希瓦娜",
+            "alias": "Shyvana",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "103",
+            "name": "九尾妖狐",
+            "title": "阿狸",
+            "alias": "Ahri",
+            "roles": [
+                "mage",
+                "assassin"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "104",
+            "name": "法外狂徒",
+            "title": "格雷福斯",
+            "alias": "Graves",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "jungle",
+                "mid",
+                "top"
+            ]
+        },
+        {
+            "heroId": "105",
+            "name": "潮汐海灵",
+            "title": "菲兹",
+            "alias": "Fizz",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "106",
+            "name": "不灭狂雷",
+            "title": "沃利贝尔",
+            "alias": "Volibear",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "107",
+            "name": "傲之追猎者",
+            "title": "雷恩加尔",
+            "alias": "Rengar",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "110",
+            "name": "惩戒之箭",
+            "title": "韦鲁斯",
+            "alias": "Varus",
+            "roles": [
+                "marksman",
+                "mage"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "111",
+            "name": "深海泰坦",
+            "title": "诺提勒斯",
+            "alias": "Nautilus",
+            "roles": [
+                "tank",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "112",
+            "name": "机械先驱",
+            "title": "维克托",
+            "alias": "Viktor",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "113",
+            "name": "北地之怒",
+            "title": "瑟庄妮",
+            "alias": "Sejuani",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "114",
+            "name": "无双剑姬",
+            "title": "菲奥娜",
+            "alias": "Fiora",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "115",
+            "name": "爆破鬼才",
+            "title": "吉格斯",
+            "alias": "Ziggs",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid",
+                "bottom",
+                "support"
+            ]
+        },
+        {
+            "heroId": "117",
+            "name": "仙灵女巫",
+            "title": "璐璐",
+            "alias": "Lulu",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "119",
+            "name": "荣耀行刑官",
+            "title": "德莱文",
+            "alias": "Draven",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "120",
+            "name": "战争之影",
+            "title": "赫卡里姆",
+            "alias": "Hecarim",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "121",
+            "name": "虚空掠夺者",
+            "title": "卡兹克",
+            "alias": "Khazix",
+            "roles": [
+                "assassin"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "122",
+            "name": "诺克萨斯之手",
+            "title": "德莱厄斯",
+            "alias": "Darius",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "126",
+            "name": "未来守护者",
+            "title": "杰斯",
+            "alias": "Jayce",
+            "roles": [
+                "fighter",
+                "marksman"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "127",
+            "name": "冰霜女巫",
+            "title": "丽桑卓",
+            "alias": "Lissandra",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "131",
+            "name": "皎月女神",
+            "title": "黛安娜",
+            "alias": "Diana",
+            "roles": [
+                "fighter",
+                "mage"
+            ],
+            "positions": [
+                "jungle",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "133",
+            "name": "德玛西亚之翼",
+            "title": "奎因",
+            "alias": "Quinn",
+            "roles": [
+                "marksman",
+                "assassin"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "134",
+            "name": "暗黑元首",
+            "title": "辛德拉",
+            "alias": "Syndra",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "136",
+            "name": "铸星龙王",
+            "title": "奥瑞利安索尔",
+            "alias": "AurelionSol",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "141",
+            "name": "影流之镰",
+            "title": "凯隐",
+            "alias": "Kayn",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "142",
+            "name": "暮光星灵",
+            "title": "佐伊",
+            "alias": "Zoe",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "143",
+            "name": "荆棘之兴",
+            "title": "婕拉",
+            "alias": "Zyra",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "145",
+            "name": "虚空之女",
+            "title": "卡莎",
+            "alias": "Kaisa",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "147",
+            "name": "星籁歌姬",
+            "title": "萨勒芬妮",
+            "alias": "Seraphine",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "150",
+            "name": "迷失之牙",
+            "title": "纳尔",
+            "alias": "Gnar",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "154",
+            "name": "生化魔人",
+            "title": "扎克",
+            "alias": "Zac",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "157",
+            "name": "疾风剑豪",
+            "title": "亚索",
+            "alias": "Yasuo",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "mid",
+                "top",
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "161",
+            "name": "虚空之眼",
+            "title": "维克兹",
+            "alias": "Velkoz",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "163",
+            "name": "岩雀",
+            "title": "塔莉垭",
+            "alias": "Taliyah",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "jungle",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "164",
+            "name": "青钢影",
+            "title": "卡蜜尔",
+            "alias": "Camille",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "166",
+            "name": "影哨",
+            "title": "阿克尚",
+            "alias": "Akshan",
+            "roles": [
+                "marksman",
+                "assassin"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "200",
+            "name": "虚空女皇",
+            "title": "卑尔维斯",
+            "alias": "Belveth",
+            "roles": [
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "201",
+            "name": "弗雷尔卓德之心",
+            "title": "布隆",
+            "alias": "Braum",
+            "roles": [
+                "support",
+                "tank"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "202",
+            "name": "戏命师",
+            "title": "烬",
+            "alias": "Jhin",
+            "roles": [
+                "marksman",
+                "mage"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "203",
+            "name": "永猎双子",
+            "title": "千珏",
+            "alias": "Kindred",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "221",
+            "name": "祖安花火",
+            "title": "泽丽",
+            "alias": "Zeri",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "222",
+            "name": "暴走萝莉",
+            "title": "金克丝",
+            "alias": "Jinx",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "223",
+            "name": "河流之王",
+            "title": "塔姆",
+            "alias": "TahmKench",
+            "roles": [
+                "support",
+                "tank"
+            ],
+            "positions": [
+                "top",
+                "support"
+            ]
+        },
+        {
+            "heroId": "233",
+            "name": "狂厄蔷薇",
+            "title": "贝蕾亚",
+            "alias": "Briar",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "234",
+            "name": "破败之王",
+            "title": "佛耶戈",
+            "alias": "Viego",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "235",
+            "name": "涤魂圣枪",
+            "title": "赛娜",
+            "alias": "Senna",
+            "roles": [
+                "marksman",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "236",
+            "name": "圣枪游侠",
+            "title": "卢锡安",
+            "alias": "Lucian",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "238",
+            "name": "影流之主",
+            "title": "劫",
+            "alias": "Zed",
+            "roles": [
+                "assassin"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "240",
+            "name": "暴怒骑士",
+            "title": "克烈",
+            "alias": "Kled",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "245",
+            "name": "时间刺客",
+            "title": "艾克",
+            "alias": "Ekko",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "jungle",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "246",
+            "name": "元素女皇",
+            "title": "奇亚娜",
+            "alias": "Qiyana",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "254",
+            "name": "皮城执法官",
+            "title": "蔚",
+            "alias": "Vi",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "266",
+            "name": "暗裔剑魔",
+            "title": "亚托克斯",
+            "alias": "Aatrox",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "267",
+            "name": "唤潮鲛姬",
+            "title": "娜美",
+            "alias": "Nami",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "268",
+            "name": "沙漠皇帝",
+            "title": "阿兹尔",
+            "alias": "Azir",
+            "roles": [
+                "mage",
+                "marksman"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "350",
+            "name": "魔法猫咪",
+            "title": "悠米",
+            "alias": "Yuumi",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "360",
+            "name": "沙漠玫瑰",
+            "title": "莎弥拉",
+            "alias": "Samira",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "412",
+            "name": "魂锁典狱长",
+            "title": "锤石",
+            "alias": "Thresh",
+            "roles": [
+                "support",
+                "fighter"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "420",
+            "name": "海兽祭司",
+            "title": "俄洛伊",
+            "alias": "Illaoi",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "421",
+            "name": "虚空遁地兽",
+            "title": "雷克塞",
+            "alias": "RekSai",
+            "roles": [
+                "fighter"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "427",
+            "name": "翠神",
+            "title": "艾翁",
+            "alias": "Ivern",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": []
+        },
+        {
+            "heroId": "429",
+            "name": "复仇之矛",
+            "title": "卡莉丝塔",
+            "alias": "Kalista",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "432",
+            "name": "星界游神",
+            "title": "巴德",
+            "alias": "Bard",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "497",
+            "name": "幻翎",
+            "title": "洛",
+            "alias": "Rakan",
+            "roles": [
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "498",
+            "name": "逆羽",
+            "title": "霞",
+            "alias": "Xayah",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "516",
+            "name": "山隐之焰",
+            "title": "奥恩",
+            "alias": "Ornn",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "517",
+            "name": "解脱者",
+            "title": "塞拉斯",
+            "alias": "Sylas",
+            "roles": [
+                "mage",
+                "assassin"
+            ],
+            "positions": [
+                "mid",
+                "jungle",
+                "support",
+                "top"
+            ]
+        },
+        {
+            "heroId": "518",
+            "name": "万花通灵",
+            "title": "妮蔻",
+            "alias": "Neeko",
+            "roles": [
+                "mage",
+                "support"
+            ],
+            "positions": [
+                "support",
+                "mid"
+            ]
+        },
+        {
+            "heroId": "523",
+            "name": "残月之肃",
+            "title": "厄斐琉斯",
+            "alias": "Aphelios",
+            "roles": [
+                "marksman"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "526",
+            "name": "镕铁少女",
+            "title": "芮尔",
+            "alias": "Rell",
+            "roles": [
+                "tank",
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "555",
+            "name": "血港鬼影",
+            "title": "派克",
+            "alias": "Pyke",
+            "roles": [
+                "support",
+                "assassin"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "711",
+            "name": "愁云使者",
+            "title": "薇古丝",
+            "alias": "Vex",
+            "roles": [
+                "mage"
+            ],
+            "positions": [
+                "mid"
+            ]
+        },
+        {
+            "heroId": "777",
+            "name": "封魔剑魂",
+            "title": "永恩",
+            "alias": "Yone",
+            "roles": [
+                "assassin",
+                "fighter"
+            ],
+            "positions": [
+                "mid",
+                "top"
+            ]
+        },
+        {
+            "heroId": "875",
+            "name": "腕豪",
+            "title": "瑟提",
+            "alias": "Sett",
+            "roles": [
+                "fighter",
+                "tank"
+            ],
+            "positions": [
+                "top",
+                "support"
+            ]
+        },
+        {
+            "heroId": "876",
+            "name": "含羞蓓蕾",
+            "title": "莉莉娅",
+            "alias": "Lillia",
+            "roles": [
+                "fighter",
+                "mage"
+            ],
+            "positions": [
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "887",
+            "name": "灵罗娃娃",
+            "title": "格温",
+            "alias": "Gwen",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "top",
+                "jungle"
+            ]
+        },
+        {
+            "heroId": "888",
+            "name": "炼金男爵",
+            "title": "烈娜塔 · 戈拉斯克",
+            "alias": "Renata",
+            "roles": [
+                "support",
+                "mage"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "895",
+            "name": "不羁之悦",
+            "title": "尼菈",
+            "alias": "Nilah",
+            "roles": [
+                "fighter",
+                "assassin"
+            ],
+            "positions": [
+                "bottom"
+            ]
+        },
+        {
+            "heroId": "897",
+            "name": "纳祖芒荣耀",
+            "title": "奎桑提",
+            "alias": "KSante",
+            "roles": [
+                "tank",
+                "fighter"
+            ],
+            "positions": [
+                "top"
+            ]
+        },
+        {
+            "heroId": "902",
+            "name": "明烛",
+            "title": "米利欧",
+            "alias": "Milio",
+            "roles": [
+                "support"
+            ],
+            "positions": [
+                "support"
+            ]
+        },
+        {
+            "heroId": "950",
+            "name": "百裂冥犬",
+            "title": "纳亚菲利",
+            "alias": "Naafiri",
+            "roles": [
+                "assassin"
+            ],
+            "positions": [
+                "mid"
+            ]
+        }
+    ],
+    "version": "13.20",
+    "fileName": "hero_list.js",
+    "fileTime": "2023-10-11 21:12:21"
+}
